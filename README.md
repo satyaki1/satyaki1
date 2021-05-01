@@ -25,4 +25,4 @@
 <br />
 
 ![Satyaki's github stats](https://github-readme-stats.vercel.app/api?username=satyaki1&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyaki1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyaki1&layout=compact)
